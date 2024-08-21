@@ -1,0 +1,16 @@
+{
+    "name": "ifcastle/logger-contracts",
+    "description": "Logger contracts.",
+    "type": "ifcastle-library",
+    "license": "MIT",
+    "keywords": ["log", "ifcastle"],
+    "autoload": {
+        "psr-4": {
+            "IfCastle\\Logger\\": "src/"
+        }
+    },
+    "require": {
+    },
+    "require-dev": {
+    }
+}
